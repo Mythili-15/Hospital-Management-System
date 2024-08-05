@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\AdminHomeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\AdminSidebarUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\BedAvailabilityUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\CRUDDoctor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\CrudEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DocAppointment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\DoctorHomeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\DoctorLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DoctorsAppointmentUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\DoctorSidebarUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\DoctorsPatientListControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\InpatientUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\PatientCRUD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\PatientWindowUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\RoomCRUD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\SettingUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
